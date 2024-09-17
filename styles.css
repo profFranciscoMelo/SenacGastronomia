@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #fd6262;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -31,12 +31,12 @@ label, input, button {
 
 button {
     padding: 0.5rem;
-    background-color: #333;
+    background-color: #fd6262;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #555;
+    background-color: #fd6262;
 }
